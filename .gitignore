@@ -1,1 +1,7 @@
 Exploration/Ex02/data/
+Exploration/Ex06/*.txt
+Exploration/Ex06/*.model
+Exploration/Ex06/*.vocab
+Exploration/Ex06/*.png
+Exploration/Ex06/.ipynb_checkpoints/
+Exploration/Ex06/Ex06_sentencepiece_project.ipynb
